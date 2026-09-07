@@ -53,8 +53,7 @@ streamlit run app.py
 amazon_dashboard/
 ├── app.py                  # 主应用文件
 ├── requirements.txt        # 依赖包
-├── .streamlit/
-│   └── config.toml         # Streamlit 配置
+├── config.toml         # Streamlit 配置
 ├── data/
 │   └── Amazon_dataset.csv  # 数据集
 └── README.md               # 说明文档
