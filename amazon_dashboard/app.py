@@ -153,8 +153,8 @@ st.sidebar.info(f"""
 """)
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("👨‍💻 **分析者**：姚日亨")
-st.sidebar.markdown("📧 1693600020@qq.com")
+st.sidebar.markdown("👨‍💻 **分析**：Bubble")
+st.sidebar.markdown("📧 xxxxxxxxx@qq.com")
 
 
 # ============================================================
